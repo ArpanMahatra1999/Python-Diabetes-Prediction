@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pickle
+pydantic
+scikit-learn
+requests
+pypi-json
+pyngrok==5.1.0
+nest-asyncio
