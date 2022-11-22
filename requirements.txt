@@ -1,9 +1,6 @@
 fastapi
 uvicorn
-pickle
 pydantic
+pickle5
 scikit-learn
-requests
-pypi-json
-pyngrok==5.1.0
-nest-asyncio
+numpy
